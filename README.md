@@ -9,8 +9,8 @@ Welcome to my corner of the web! Here’s a little about me:
 - 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
 
 ### 📩 🤝 Get in Touch & Let's Connect:
-- 📧 You can always get in touch with me at: **sssallen2016@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudhanshu-singh-sss2070)
+- 📧 You can always get in touch with me at: **akarshan915719@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akarshan-sharma-020320208/)
 
 ### 🌟 A Few Fun Facts:
 - 😄 **Pronouns**: He/Him
