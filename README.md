@@ -3,7 +3,7 @@
 Welcome to my corner of the web! Here’s a little about me:
 
 ### 🚀 Current Mission:
-- 🔭 **Java Backend Development** - I’m diving deep into **Java** and **SpringBoot** to robust, scalable backend systems.
+- 🔭 **Java Backend Development** - I’m diving deep into **Java** and **SpringBoot** to create robust, scalable backend systems.
   
 ### 🗣️ Let’s Chat:
 - 💬 **Ask me about anything!** Whether it's tech, development, novels, or random fun facts, I'm all ears!
